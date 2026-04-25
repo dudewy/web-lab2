@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+body.light { background: #f9f9f9; color: #333; }
+body.dark { background: #222; color: #f9f9f9; }
+h1 { color: #0077cc; }
+a { margin: 0 5px; text-decoration: none; color: #0077cc; }
